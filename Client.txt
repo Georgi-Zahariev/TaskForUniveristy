@@ -1,0 +1,39 @@
+9
+Georgi Zahariev
+11.03.2001
+120
+12222,3
+Iavna Petrova
+11.13.2001
+520
+1332,3
+Dara Zaharieva
+11.13.2002
+8000
+122,3
+Petar Ivanov
+01.03.2002
+160
+1322,3
+Rado Popov 
+11.05.2003
+340
+4444,3
+Manol Pantov
+11.01.2003
+5000
+12222,3
+Georgi Ivanov 
+11.03.2004
+240
+1242,3
+Ivan Damqnov 
+11.11.2004
+52
+1332,3
+Darina Ivanova 
+11.03.2004
+230
+1222,3
+4
+
